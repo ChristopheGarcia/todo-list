@@ -1,0 +1,13 @@
+form {
+    display : flex;
+    justify-content: center;
+    margin : 20px auto 10px auto;
+}
+
+.AddTodosContainer {
+    border : 1px solid #C6C6C6;
+    border-radius : 5px;
+    color : #0984e3;
+    width : 50%;
+    padding : 5px 5px 5px 20px;
+}

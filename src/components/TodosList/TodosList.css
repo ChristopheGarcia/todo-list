@@ -1,0 +1,25 @@
+.todosContainer {
+    justify-content: center;
+    background-color : #F6F6F6;
+    color : #0984e3;
+    margin : auto;
+    width : 50%;
+    border-bottom : 1px solid #C6C6C6;
+}
+
+.todos {
+    border : 1px solid #C6C6C6;
+    border-radius : 5px;
+    border-bottom : none;
+    padding : 20px;
+}
+
+.deleteIcon {
+    margin-right : 10%;
+    cursor : pointer;
+}
+
+.paragraph {
+    padding : 0;
+    margin : 0;
+}

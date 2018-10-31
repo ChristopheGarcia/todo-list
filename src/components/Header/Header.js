@@ -4,7 +4,11 @@ import './Header.css';
 
 const Header = () => {
     return (
-        <h1 className="header">Todo App</h1>
+        <div>
+            <h1 className="header">To-Do App</h1>
+            <p className="paragraph-header">N'oubliez plus rien</p>
+        </div>
+       
     )
 }
 
